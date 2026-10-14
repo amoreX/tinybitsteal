@@ -1,0 +1,9 @@
+[submodule "open-computer-use"]
+	path = open-computer-use
+	url = https://github.com/kushagra2503/open-codex-computer-use.git
+[submodule "speculative-actions"]
+	path = speculative-actions
+	url = https://github.com/naimengye/speculative-action.git
+[submodule "preact"]
+	path = preact
+	url = https://github.com/19PINE-AI/PreAct.git
